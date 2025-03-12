@@ -1,7 +1,7 @@
 # 内容: 🚫 广告过滤 规则集
 # 备注: 以anti-AD为基础，添加自用规则，原作者: https://anti-ad.net/
-# 更新: 2025年03月11日05:08:28
-# 数量: 87588条
+# 更新: 2025年03月13日05:08:24
+# 数量: 87587条
 DOMAIN-SUFFIX,000dn.com
 DOMAIN-SUFFIX,0013.cc
 DOMAIN-SUFFIX,s8.001fzc.com
@@ -9280,7 +9280,6 @@ DOMAIN-SUFFIX,ftwo-receiver.autohome.com.cn
 DOMAIN-SUFFIX,idm.api.autohome.com.cn
 DOMAIN-SUFFIX,leads.api.autohome.com.cn
 DOMAIN-SUFFIX,leads.autohome.com.cn
-DOMAIN-SUFFIX,activity.app.autohome.com.cn
 DOMAIN-SUFFIX,adnewnc.app.autohome.com.cn
 DOMAIN-SUFFIX,adproxy.autohome.com.cn
 DOMAIN-SUFFIX,alert.autohome.com.cn
